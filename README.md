@@ -9,3 +9,7 @@ This project is based on the [Advanced Power BI LEGO Set Explorer Crash Course](
 - Analysis of LEGO set data across themes, years, and piece counts.
 - Insights into popular themes, trends over time, and more.
 - Dynamic visuals and slicers for easy data exploration.
+
+## 📊 Dashboard Preview
+
+![LegoSetExploreSS](https://github.com/user-attachments/assets/5e3c33f3-995c-40e3-a14c-6785c158c84a)
