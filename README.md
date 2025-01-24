@@ -8,7 +8,3 @@ This project is based on the [Advanced Power BI LEGO Set Explorer Crash Course](
 - Analysis of LEGO set data across themes, years, and piece counts.
 - Insights into popular themes, trends over time, and more.
 - Dynamic visuals and slicers for easy data exploration.
-
-## 📚 Data Source
-
-The data and concepts used in this project are from the [Advanced Power BI LEGO Set Explorer Crash Course](https://mavenanalytics.io/crash-courses/advanced-power-bi-lego-set-explorer) by Maven Analytics.
