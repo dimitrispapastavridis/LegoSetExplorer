@@ -10,8 +10,7 @@ This project is based on the [Advanced Power BI LEGO Set Explorer Crash Course](
 
 ## 📊 Dashboard Preview
 
-![LegoSetExploreSS](https://github.com/user-attachments/assets/5e3c33f3-995c-40e3-a14c-6785c158c84a)
 
- 
+![Lego1](https://github.com/user-attachments/assets/fda7bc05-ff9f-4399-b440-4739f6d6c9b5)
 
-![LegoSetExplorerSS2](https://github.com/user-attachments/assets/5be7daed-9cb7-4c01-994c-3d90254c0333)
+![Lego2](https://github.com/user-attachments/assets/669b61cd-91c2-481d-9eec-b4b0c28ea19f)
